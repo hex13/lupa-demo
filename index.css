@@ -1,0 +1,14 @@
+body {
+    background: #21252b;
+    font-family: Helvetica, sans-serif;
+    font-family: monaco, monospace;
+}
+
+body, input {
+        color: #9da5b4;
+}
+
+.CodeMirror {
+    height: 800px;
+    font-family: monaco, monospace;
+}
